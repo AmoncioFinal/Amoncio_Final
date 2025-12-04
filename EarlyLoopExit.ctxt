@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EarlyLoopExit
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ jkdbcjkv\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr\ target
+comment2.target=int\ searchAndStop(int[],\ int)
+comment2.text=\ \r\n\ Searches\ for\ target\ value\ and\ stops\ loop\ immediately\ when\ found.\ \r\n\ @param\ arr\ The\ array\ to\ search\ \r\n\ @param\ target\ The\ value\ to\ find\ \r\n\ @return\ Index\ of\ first\ occurrence,\ or\ -1\ if\ not\ found\ \r\n
+numComments=3

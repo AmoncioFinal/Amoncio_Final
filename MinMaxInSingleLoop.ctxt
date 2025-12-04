@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MinMaxInSingleLoop
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ jsgjkjukjkv\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=int[]\ findMinMax(int[])
+comment2.text=\ \r\n\ Finds\ both\ minimum\ and\ maximum\ in\ a\ single\ pass\ through\ the\ array.\ \r\n\ @param\ arr\ The\ input\ integer\ array\ (must\ not\ be\ empty)\ \r\n\ @return\ An\ array\ where\ index\ 0\ \=\ min,\ index\ 1\ \=\ max\ \r\n
+numComments=3

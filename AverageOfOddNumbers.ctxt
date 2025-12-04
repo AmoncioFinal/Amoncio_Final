@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AverageOfOddNumbers
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ znbcjk\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=double\ calculateAverageOfOdds(int[])
+comment2.text=\ \r\n\ Calculates\ the\ average\ of\ all\ odd\ numbers\ in\ the\ array.\ \r\n\ @param\ arr\ The\ input\ integer\ array\ \r\n\ @return\ Average\ of\ odd\ numbers,\ or\ NaN\ if\ no\ odd\ numbers\ exist\ \r\n
+numComments=3

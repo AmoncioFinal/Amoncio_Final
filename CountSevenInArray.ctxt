@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CountSevenInArray
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ jhgdjcgdjk\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr\ target
+comment2.target=int\ countOccurrences(int[],\ int)
+comment2.text=\ \r\n\ A\ reusable\ method\ to\ count\ occurrences\ of\ a\ target\ number\ in\ an\ integer\ array.\ \r\n\ @param\ arr\ The\ integer\ array\ to\ search\ within.\ \r\n\ @param\ target\ The\ number\ to\ count.\ \r\n\ @return\ The\ number\ of\ times\ the\ target\ appears\ in\ the\ array.\ \r\n
+numComments=3
